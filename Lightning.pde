@@ -48,7 +48,6 @@ void mousePressed()
   startY = 140;
   endX = 250;
   endY = 140;
-  clear();
   strokeWeight(5);
   background(240, 245, 250);
   smooth();
